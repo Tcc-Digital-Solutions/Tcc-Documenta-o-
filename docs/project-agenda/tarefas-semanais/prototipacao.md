@@ -11,10 +11,10 @@ criação da organização github
 ## Tarefas A Cumprir
 
 - [ ] Ux Desingn [`Figma`](https://docusaurus.io/) 
-- [ ] Organização Github [`Github`](https://docusaurus.io/docs/api/docusaurus-config)
-- [ ] Reunião De Alinhamento [`Documentation`](https://docusaurus.io/docs/api/themes/configuration)
+- [X] Organização Github [`Github`](https://docusaurus.io/docs/api/docusaurus-config)
+- [X] Reunião De Alinhamento [`Documentation`](https://docusaurus.io/docs/api/themes/configuration)
 - [ ] Nome Do Grupo [Documentation](https://docusaurus.io/docs/styling-layout)
 - [ ] Criação De Identidade [Documentation](https://docusaurus.io/docs/search)
-- [ ] Planejamento De Projeto [Documentation](https://docusaurus.io/showcase)
-- [ ] Aulas De Ferramentas [Documentation](https://docusaurus.io/community/support)
+- [X] Planejamento De Projeto [Documentation](https://docusaurus.io/showcase)
+- [X] Aulas De Ferramentas [Documentation](https://docusaurus.io/community/support)
 

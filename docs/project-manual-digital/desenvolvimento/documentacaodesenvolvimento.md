@@ -11,7 +11,7 @@ Para não ter qualquer tipo de divergência de quem fez oque todos terão que fa
 
         ## Mudei cor Do Button
 
-        -  `Data` **00/00/0000** → `Hora` → **00/00**
+        -  `Data` **00/00/0000** 
 
         -  `Discrição` → **Eu fiz alteração no button de azul para branco**
 
@@ -26,7 +26,7 @@ O Diário de bordo serve para você documentar oque você for fazendo no dia a d
 
         ## Crie a documentação do site
 
-        -  `Data` **00/00/0000** → `Hora` 
+        -  `Data` **00/00/0000** 
 
         -  `Discrição` → **Eu fiz a documentação da parte dos logs**
 
