@@ -7,14 +7,14 @@ sidebar_position: 1
 ##
 
   ----
-  ## Titulo Reunião
+  ## Sprint 1 
+  ### Status de duas semanas 
 
-  - Local → **Remota**
+   Se passaram suas semanas e grande parte das bibliotecas foram testadas em sites testes, além de estarem perto da finalização. Startamos a construção do diagramas do banco de dados  -> 08/02
 
-  - ***Inicio → 00/00/0000 Concluido → 00/00/0000***
+   Faltam 4 semanas para o primeiro sprint acabar e entregarmos o status que supomos para ser finalizado neste período, como a finalização
+   de metade das bibliotecas de acessibilidades.
 
-  -  `Participantes Da Reunião` → **Danilo/Louise**
 
-  -  `Discrição` → A conversa não foi muito boa não tivemos um consenso
 
-  -  `Obs` → **A Reunião não foi muito boa não tivemos um consenso**
+  
